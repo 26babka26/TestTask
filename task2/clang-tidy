@@ -1,0 +1,25 @@
+---
+Checks: |
+  -std=c++20,
+  clang-diagnostic-*,
+  clang-analyzer-*,
+  *,
+  -fuchsia-*,
+  -llvm-header-guard,
+  -llvmlibc-*,
+  -cppcoreguidelines-owning-memory,
+  -google-runtime-references,
+  -modernize-use-trailing-return-type,
+  -readability-identifier-length,
+  -altera-unroll-loops,
+  -altera-id-dependent-backward-branch,
+  -bugprone-easily-swappable-parameters
+WarningsAsErrors: true
+HeaderFilterRegex: '.*/(libsolver|app)/'
+AnalyzeTemporaryDtors: false
+FormatStyle:     file
+CheckOptions:
+  - key:   cppcoreguidelines-explicit-virtual-functions.IgnoreDestructors
+    value: '1'
+...
+

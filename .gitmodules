@@ -1,0 +1,9 @@
+[submodule "task2/ext/gtest"]
+	path = task2/ext/gtest
+	url = https://github.com/google/googletest.git
+[submodule "ext/GTest"]
+	path = ext/GTest
+	url = https://github.com/google/googletest.git
+[submodule "ext/gtest"]
+	path = ext/gtest
+	url = https://github.com/google/googletest.git

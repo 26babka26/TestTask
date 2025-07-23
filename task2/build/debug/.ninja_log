@@ -1,0 +1,27 @@
+# ninja log v5
+5	1970	1753256397631043543	ext/gtest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	38426366d570d9b9
+2	2679	1753256398339044759	ext/gtest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	eacef5cd73a2156d
+2	4888	1753256400546048550	ext/gtest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	9e594990ad4da531
+1972	6125	1753256401787818423	src/Main/CMakeFiles/Main.dir/main.cpp.o	ed8464d0782c20c6
+4	7449	1753256403095052927	ext/gtest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	cd2a970fbb8dd87a
+4891	13091	1753256408750062633	src/TopTracker/CMakeFiles/TopTrackerTest.dir/UnitTests/TopTrackerTest.cpp.o	559e9abf652865c6
+4	110	1753256430046051637	lib/libgtest.a	acf4ba1967b226d2
+110	168	1753256430104261980	lib/libgtest_main.a	e87c40c45ded31a7
+110	182	1753256430120010035	lib/libgmock.a	b7a3881ab618df84
+182	234	1753256430174572363	lib/libgmock_main.a	a80e0c4ec0870d93
+4	2708	1753257064995177579	src/TopTracker/CMakeFiles/TopTracker.dir/TopTracker.cpp.o	bea21e4d943dc8aa
+2708	2755	1753257065045589872	src/TopTracker/libTopTracker.a	466a11926f16cdfc
+2755	2784	1753257065076517374	src/Main/Main	61d856a6dc2ed04c
+2755	2882	1753257065171177877	src/TopTracker/TopTrackerTest	2eafb786c1916e30
+4	2729	1753257163235343194	src/TopTracker/CMakeFiles/TopTracker.dir/TopTracker.cpp.o	bea21e4d943dc8aa
+2729	2779	1753257163286595623	src/TopTracker/libTopTracker.a	466a11926f16cdfc
+2779	2813	1753257163322581778	src/Main/Main	61d856a6dc2ed04c
+2779	2924	1753257163429343520	src/TopTracker/TopTrackerTest	2eafb786c1916e30
+5	2855	1753257182661375929	src/TopTracker/CMakeFiles/TopTracker.dir/TopTracker.cpp.o	bea21e4d943dc8aa
+2855	2906	1753257182715006953	src/TopTracker/libTopTracker.a	466a11926f16cdfc
+2906	2940	1753257182748822763	src/Main/Main	61d856a6dc2ed04c
+2907	3055	1753257182862376266	src/TopTracker/TopTrackerTest	2eafb786c1916e30
+4	6754	1753257217274434242	src/TopTracker/CMakeFiles/TopTrackerTest.dir/UnitTests/TopTrackerTest.cpp.o	559e9abf652865c6
+6754	6887	1753257217404434461	src/TopTracker/TopTrackerTest	2eafb786c1916e30
+4	7048	1753257242702477065	src/TopTracker/CMakeFiles/TopTrackerTest.dir/UnitTests/TopTrackerTest.cpp.o	559e9abf652865c6
+7048	7187	1753257242844477303	src/TopTracker/TopTrackerTest	2eafb786c1916e30
